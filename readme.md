@@ -11,6 +11,7 @@ Have fun :)
 - [Walrus Operator](https://github.com/RottenTangerine/Advanced-Python/blob/master/Walrus%20Operator.ipynb)
 - [Make Progress Bar](https://github.com/RottenTangerine/Advanced-Python/blob/master/Progress%20Bar.ipynb)
 - [Convert Python Script to .exe File (Pyinstaller)](https://github.com/RottenTangerine/Advanced-Python/blob/master/Pyinstaller/Note.md)
-- [Make requirement.txt file (working in progress)](https://github.com/RottenTangerine/Advanced-Python/blob/master/Requirement.md)
+- [Requirement.txt](https://github.com/RottenTangerine/Advanced-Python/blob/master/Requirement.md)
+- setup.py
 - Make gitignore file (working in progress)
 
