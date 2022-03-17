@@ -8,15 +8,15 @@ Note: It is not a cross-compiler: to make a Windows app you run PyInstaller in W
 
 Document: [Pyinstaller Homepage](https://pyinstaller.readthedocs.io/en/stable/index.html)
 
-##
+## Steps
 
-确保在终端将位置切换到python 位置
+Note: Check if your terminal is in correct directory first
 
 `pyinstall -F <file name>`
 
-1. 首次打包时直接-F (-F 选项指定生成单个的可执行程序)
-2. 编辑*.spec文件，通过在列表中添加对应元祖信息的方式，追加依赖文件
-3. pyinstaller -F *.spec进行二次打包即可追加文件至exe中。
+1. -F option means generate a single .exe file
+2. Edit *.spec file
+3. `pyinstaller -F *.spec` package your application through *.spec file
 
 ## Spec file
 
